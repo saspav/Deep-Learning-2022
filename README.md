@@ -8,4 +8,5 @@ https://stepik.org/course/124069/syllabus
 
 На основе курсов 
 по Машинному Обучению ФИВТ МФТИ https://github.com/girafe-ai/ml-course
+
 Открытого курса по Машинному Обучению https://habr.com/ru/company/ods/blog/322626/
